@@ -1,0 +1,71 @@
+/* for testing */
+
+* {
+		/*border: 1px solid red !important;*/
+
+}
+
+/* classic selectors */
+
+body {
+	font-family: 'Lucida Grande', sans-serif;
+
+	 color: #666666;
+}
+
+/* my customized selectors */
+
+.titlesuper {
+	font-weight: 500;
+
+	font-size: 48px;
+
+	margin-top: 45px;
+    
+    margin-left: 3px;
+}
+
+.subtitle {
+	color: #F07C17;
+
+	font-weight: 600;
+    
+    font-size: 25px;
+    
+    margin-top: 20px;
+}
+
+.internal-text {
+	line-height: 159%;
+
+	margin-top: 20px;
+    
+    margin-bottom: 20px;
+    
+    margin-left: 0px;
+    
+    margin-rigth: 0px;
+    
+    font-size: 17px;
+    
+    font-weight: 200;
+}
+
+.flexrow {
+	display: flex;
+	/*flex-wrap: wrap;*/
+}
+
+.frameborder {
+	border: 1px solid #CCCCCC;
+
+	align-self: center;
+
+	padding: 10px;
+    
+    margin-left: 0px;
+    
+    margin-top: 30px;
+    
+    padding-left: 20px;
+}
