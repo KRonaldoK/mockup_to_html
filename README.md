@@ -13,7 +13,8 @@ Mockup:
 
 ![mockup](./page-mock.png)
 
-## Podemos ver que o layout da página se modifica quando alteramos o tamanho da janela do browser, simulando dispositivos com uma tela menor:
+## Podemos ver que o layout da página se modifica quando alteramos o tamanho da janela do browser - com imagem responsiva  
+( 'class="img-responsive' ) - simulando dispositivos com uma tela menor:
 <!--We can see the page layout changes as we resize the browser window: -->
 
 
