@@ -1,4 +1,4 @@
-# Conversão de Mockup para HTML com Bootstrap Flexbox
+`# Conversão de Mockup para HTML com Bootstrap Flexbox
 ## Projeto Bootstrap Flexbox Mockup
 
 1. Conversão de um protótipo de design (imagem) em uma página web, utilizando HTML e CSS com Bootstrap.
@@ -13,7 +13,7 @@ Mockup:
 
 ![mockup](./page-mock.png)
 
-## Podemos ver que o layout da página se modifica quando alteramos o tamanho da janela do browser - com imagem responsiva ( 'class="img-responsive' ) - simulando dispositivos com uma tela menor:
+## Podemos ver que o layout da página se modifica quando alteramos o tamanho da janela do browser - com imagem responsiva ( 'class="img-responsive"` ) - simulando dispositivos com uma tela menor:
 <!--We can see the page layout changes as we resize the browser window: -->
 
 
