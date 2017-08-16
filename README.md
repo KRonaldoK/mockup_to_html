@@ -17,4 +17,4 @@ Mockup:
 <!--We can see the page layout changes as we resize the browser window: -->
 
 
-![mockup](./mockup_flexbox.png)
+![mockup em tela menor](./mockup_flexbox.png)
